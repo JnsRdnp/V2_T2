@@ -1,6 +1,9 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
+<<<<<<< HEAD
 /build
+=======
+>>>>>>> ddcc83c0e896172569db6ec3c501ed192ce4cac2
 *~
 *.autosave
 *.a
